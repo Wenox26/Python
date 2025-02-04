@@ -36,6 +36,7 @@ charOne.name = "Wenox"
 charTwo.name = "Wenwen"
 print (charOne.name)
 print (charTwo.name)
+print (charOne.hp)
 
 # class Student:
 #     name = "Name"
