@@ -14,18 +14,16 @@ def div(x, y):
         print("Cannot be divided by zero")
 
 
+# print("Python Calculator")
+# print("1. Add")
+# print("2. Subtract")
+# print("3. Multiplication")
+# print("4. Division")
 
 
-print("Python Calculator")
-print("1. Add")
-print("2. Subtract")
-print("3. Multiplication")
-print("4. Division")
-
-
-print(" ")
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+# print(" ")
+# num1 = float(input("Enter first number: "))
+# num2 = float(input("Enter second number: "))
 
 
 
@@ -33,9 +31,9 @@ num2 = float(input("Enter second number: "))
 
 
 # FUNCTION CALL
-# print(add(3,4))
-# print(sub(3,4))
-# print(mul(3,4))
-# print(div(3,4))
+print(add(3,4))
+print(sub(3,4))
+print(mul(3,4))
+print(div(3,4))
 
 
