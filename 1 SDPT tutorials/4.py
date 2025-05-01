@@ -73,7 +73,3 @@ studentTwo = {
 
 print (studentOne.get("physical"))
 
-
-
-
-

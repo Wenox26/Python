@@ -26,4 +26,4 @@ charOne = Character("Owen", 100, 50, 30, 1)
 charTwo = Character("Wenwen", 200, 34, 5, 34)
 charThree = Character("Miya", 100, 50, 100, 1)
 
-
+print(charOne.name)
